@@ -18,4 +18,4 @@ $ npm install
 ```bash
 $ npm start
 ```
-5. Browse to http://0.0.0.0:8000
+5. Browse to http://localhost:3000
