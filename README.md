@@ -1,2 +1,1 @@
-# react-mvvm-pokemon
-React with MVVM showcase 
+# React with MVVM - Pokedex showcase application
